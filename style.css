@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  background: rgb(229, 225, 169);
+  overflow: hidden;
+  text-align: center;
+  color: #0a0a0a;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+#myCanvas {
+  background: rgb(56, 56, 56);
+}
