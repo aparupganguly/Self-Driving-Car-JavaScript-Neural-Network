@@ -1,11 +1,13 @@
 body {
+  background: #e5e1a9;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   margin: 0;
-  background: rgb(229, 225, 169);
   overflow: hidden;
   text-align: center;
-  color: #0a0a0a;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
-#myCanvas {
+#carCanvas {
   background: rgb(56, 56, 56);
+}
+#networkCanvas {
+  background: rgb(8, 8, 8);
 }
